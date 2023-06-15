@@ -4,7 +4,7 @@ Hi 👋 My name is Rawich Intaraparpong
 Front-end Developer
 -------------------
 
-In the past, I worked as an SEO content. Currently, I am studying and focusing on Front-End development. I am proficient in web development using HTML, CSS (Sass/Scss), JavaScript, Python, TypeScript, Vue, and React. I am also experienced in utilizing library&frameworks such as Bootstrap 5, Mui, Tailwind, and Vuetifyjs to ensure efficient and accurate web development. Additionally, I possess fundamental knowledge in SEO/SEM practices. I have a basic understanding of using Figma for design purposes. At the moment, I am actively seeking full-time Front-End development opportunities.
+In the past, I worked as an SEO content. Currently, I am studying and focusing on Front-End development. I am proficient in web development using HTML, CSS (Sass/Scss), JavaScript, Python, TypeScript, Vue, and React. I am also experienced in utilizing library&frameworks such as Bootstrap 5, Mui, Tailwind, and Vuetifyjs to ensure efficient and accurate web development. Additionally, I possess fundamental knowledge in SEO/SEM practices. I have a basic understanding of using Figma for design purposes. At the moment, I am actively seeking full-time Front-End development opportunities.You can contact me at **Email:** blue.rawich@gmail.com
 
 *   🌍  I'm based in Khon Kaen, Thailand
 *   Skills 
