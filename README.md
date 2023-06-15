@@ -6,7 +6,8 @@ Front-end Developer
 
 In the past, I worked as an SEO content professional. Currently, I am studying and focusing on Front-End development. I am proficient in web development using HTML, CSS (Sass/Scss), JavaScript, Python, TypeScript, Vue, and React. I am also experienced in utilizing frameworks such as Bootstrap 5, Mui, Tailwind, and Vuetifyjs to ensure efficient and accurate web development. Additionally, I possess fundamental knowledge in SEO/SEM practices. I have a basic understanding of using Figma for design purposes. At the moment, I am actively seeking Front-End development opportunities.
 
-*   🌍  I'm based in Khon Kaen, Thailand### Skills 
+*   🌍  I'm based in Khon Kaen, Thailand
+*   Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
