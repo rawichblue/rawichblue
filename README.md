@@ -4,7 +4,7 @@ Hi 👋 My name is Rawich Intaraparpong
 Front-end Developer
 -------------------
 
-Good design and ease of use are crucial for creating effective websites and applications, and that’s what drives me as a Front-End Developer. I specialize in HTML, CSS, JavaScript, React, and Nuxt TS, and have a strong background in responsive UI/UX design. My focus is on delivering exceptional user experiences through clean, functional code and thoughtful design. I’m always eager to explore new technologies and take on new challenges to enhance my skills
+Good design and ease of use are crucial for creating effective websites and applications, and that’s what drives me as a Front-End Developer. I specialize in HTML, CSS, JavaScript, Vue and React, Nuxt and Next, and have a strong background in responsive UI/UX design. My focus is on delivering exceptional user experiences through clean, functional code and thoughtful design. I’m always eager to explore new technologies and take on new challenges to enhance my skills
 
 * 🌍  I'm based in Khonkaen
 * ✉️  You can contact me at [rawich.itp@gmail.com](mailto:rawich.itp@gmail.com)
