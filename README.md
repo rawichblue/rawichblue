@@ -1,10 +1,16 @@
 Hi 👋 My name is Rawich Intaraparpong
 =====================================
 
-Front-end Developer
+Senior Frontend Developer
 -------------------
 
-Good design and ease of use are crucial for creating effective websites and applications, and that’s what drives me as a Front-End Developer. I specialize in HTML, CSS, JavaScript, Vue and React, Nuxt and Next, and have a strong background in responsive UI/UX design. My focus is on delivering exceptional user experiences through clean, functional code and thoughtful design. I’m always eager to explore new technologies and take on new challenges to enhance my skills
+Senior Frontend Developer with experience building production-grade web applications, specializing in UI development and API integration, with solid exposure to full-stack development. Able to understand and contribute across the system, from frontend to backend and deployment.
+ 
+Experienced in developing products from early-stage proof-of-concept (POC) through to production, primarily owning frontend development including component design, state management, and API integration (REST/GraphQL). Additionally contributed to backend development (microservices using Go, gRPC, NestJS) and DevOps workflows (CI/CD and containerized deployment).
+ 
+Worked on systems with business complexity such as financial modules, and collaborated closely with teams through code reviews, development practices, and mentoring junior developers to ensure high-quality and efficient delivery.
+ 
+Focused on code quality, maintainability, and continuous improvement, with the ability to grow into broader system-level responsibilities.
 
 * 🌍  I'm based in Khonkaen
 * ✉️  You can contact me at [rawich.itp@gmail.com](mailto:rawich.itp@gmail.com)
